@@ -13,7 +13,8 @@ if(have_posts()):
 	<!-- info-box -->
 	<div class="info-box">
 		<h4>Disclaimer title</h4>
-		<p> hiuydawjbdjhagwqwandemngjgdaf </p>
+		<p> hiuydawjbdjhagwqwandemngjgdaf </p><br>
+		<P><b><h2>Barev naranc ov qnacchi</h2></b></p>
 	</div> <!-- /info-box -->
 	
 	<?php the_content();?>
