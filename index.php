@@ -43,9 +43,9 @@ if(have_posts()):
 
 		<?php } else {
 
-			the_content();
+			echo the_content();
 
-		} ?>
+	 ?>
 
 
 	</article>
